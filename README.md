@@ -13,10 +13,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Splunk</b>
+  -[Infracstructure Monitoring in Splunk](adfa)
 
 - <b>Microsoft Azure</b>
-  - [SIEM using Sentinel]
-  - 
+  - [SIEM using Sentinel](https://github.com/itsims007/SIEM-using-Azure-Sentinel)
 
 - <b>Nessus and VMware</b>
   - [Vulnerability Management](https://github.com/itsims007/Vulnerability-Managment)
