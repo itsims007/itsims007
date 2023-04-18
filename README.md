@@ -15,6 +15,8 @@
 - <b>Splunk</b>
 
 - <b>Microsoft Azure</b>
+  - [SIEM using Sentinel]
+  - 
 
 - <b>Nessus and VMware</b>
   - [Vulnerability Management](https://github.com/itsims007/Vulnerability-Managment)
