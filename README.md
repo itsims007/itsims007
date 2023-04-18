@@ -13,7 +13,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Splunk</b>
-  -[Infracstructure Monitoring in Splunk](adfa)
+  - [Infrastructure Monitoring using Splunk](https://github.com/itsims007/infastructure-monitoring-using-Splunk)
 
 - <b>Microsoft Azure</b>
   - [SIEM using Sentinel](https://github.com/itsims007/SIEM-using-Azure-Sentinel)
