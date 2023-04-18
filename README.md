@@ -16,6 +16,6 @@
 
 - <b>Microsoft Azure</b>
 
-- <b>Nessus</b>
+- <b>Nessus and VMware</b>
   - [Vulnerability Management](https://github.com/itsims007/Vulnerability-Managment)
-  - 
+ 
