@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/itsims007/osticket-pre)
   - [osTicket: Post-Installation Configuration](https://github.com/itsims007/post-install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/itsims007/osTicket-Ticket-Lifecycle-Examples)
-- <b>Jira (Help Desk Ticketing System)</b>
+- <b>Jira Service Management (Help Desk Ticketing System)</b>
   - [Jira: Prerequisites and Installation](https://github.com/itsims007/osticket-pre)
   - [Jira: Post-Installation Configuration](https://github.com/itsims007/post-install)
   - [Jira: Ticket Lifecycle Examples](https://github.com/itsims007/osTicket-Ticket-Lifecycle-Examples)
