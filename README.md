@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/itsims007/osTicket-Ticket-Lifecycle-Examples)
 - <b>Jira Service Management (Help Desk Ticketing System)</b>
   - [Jira: Prerequisites and Installation](https://github.com/itsims007/Jira-Prerequisites-and-Installation)
-  - [Jira: Ticket Lifecycle Examples](https://github.com/itsims007/osTicket-Ticket-Lifecycle-Examples)
+  - [Jira: Ticket Lifecycle Examples](https://github.com/itsims007/Jira-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within VMs](https://github.com/itsims007/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/itsims007/azure-network-protocols)
