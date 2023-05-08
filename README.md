@@ -8,7 +8,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/itsims007/osTicket-Ticket-Lifecycle-Examples)
 - <b>Jira Service Management (Help Desk Ticketing System)</b>
   - [Jira: Prerequisites and Installation](https://github.com/itsims007/Jira-Prerequisites-and-Installation)
-  - [Jira: Post-Installation Configuration](https://github.com/itsims007/post-install)
   - [Jira: Ticket Lifecycle Examples](https://github.com/itsims007/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within VMs](https://github.com/itsims007/configure-ad)
