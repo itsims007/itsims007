@@ -17,7 +17,7 @@
 
 - <b>Splunk</b>
   - [Infrastructure Monitoring using Splunk](https://github.com/itsims007/infastructure-monitoring-using-Splunk)
-  - [Splunk Cheat sheet](https://github.com/itsims007/)
+  - [Splunk Cheat Sheet](https://github.com/itsims007/Splunk-Cheat-Sheet)
 
 - <b>Microsoft Azure</b>
   - [SIEM using Sentinel](https://github.com/itsims007/SIEM-using-Azure-Sentinel)
