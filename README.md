@@ -24,4 +24,6 @@
 
 - <b>Nessus and VMware</b>
   - [Vulnerability Management](https://github.com/itsims007/Vulnerability-Managment)
- 
+
+- <b>ChatGPT Projects</b>
+
