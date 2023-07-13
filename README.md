@@ -25,10 +25,9 @@
 - <b>Nessus and VMware</b>
   - [Vulnerability Management](https://github.com/itsims007/Vulnerability-Managment)
 
-<h2>👨‍💻ChatGPT Projects:</h2>
-
-- <b>First PROMTS </b>
-
+<h2>🤳ChatGPT Projects Projects:</h2>
+- <b> First PROMTS<b>
+   - [Creating Promts with ChatGpt](https://github.com/itsims007/ChatGpt)
 This tutorial for First promts is to ask chat GPT to describe how large models works and then ask at least three follow-up questions based on the output. Also provide the provide the promts and outputs from the conversation.
 <br />
 
