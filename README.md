@@ -25,6 +25,9 @@
 - <b>Nessus and VMware</b>
   - [Vulnerability Management](https://github.com/itsims007/Vulnerability-Managment)
 
+- <b>Linux networking utilities tcpdump to capture and analyze TCP traffic</b>
+  - [Analyzing Network Traffic with TCPDump](https://github.com/itsims007/Vulnerability-Managment)
+    
 <h2>🤳ChatGPT Projects Projects:</h2>
 - <b> First PROMTS<b>
    - [Creating Promts with ChatGpt](https://github.com/itsims007/ChatGpt)
