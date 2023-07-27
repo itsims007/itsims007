@@ -26,7 +26,7 @@
   - [Vulnerability Management](https://github.com/itsims007/Vulnerability-Managment)
 
 - <b>Analyzing Network Traffic with TCPDump</b>
-  - [Linux networking utilities tcpdump to capture and analyze TCP traffic](https://github.com/itsims007/Vulnerability-Managment)
+  - [Linux networking utilities tcpdump to capture and analyze TCP traffic](https://github.com/itsims007/Analyzing-Network-Traffic-with-TCPDump/tree/main)
   
 <h2>🤳ChatGPT Projects Projects:</h2>
 - <b> First PROMTS<b>
