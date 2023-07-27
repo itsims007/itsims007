@@ -31,7 +31,7 @@
 <h2>🤳ChatGPT Projects Projects:</h2>
 
 - <b>First Promts</b>
-  - [Creating Promts with ChatGpt]((https://github.com/itsims007/First-PROMTS-/tree/main)
+  - [Creating Promts with ChatGpt](https://github.com/itsims007/First-PROMTS-/tree/main)
 
 
 
