@@ -1,5 +1,5 @@
 <h1>Hi, I'm Marie, <a href="https://www.linkedin.com/in/marie-s-03b061239/">A Cybersecurity and AI/IT Professional</a>☺</h1>
-- 👀 I’m interested in taking over the world, no just kidding. 
+- 👀 I’m interested in taking over the world, just kidding. 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
