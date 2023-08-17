@@ -27,6 +27,10 @@
 
 - <b>Analyzing Network Traffic with TCPDump</b>
   - [Linux networking utilities tcpdump to capture and analyze TCP traffic](https://github.com/itsims007/Analyzing-Network-Traffic-with-TCPDump/tree/main)
+
+- </b>Microsoft Windows Defender and Firewall</b>
+  - [Configuring and updating Microsoft Defender]
+  - [Enabling and configuring Microsoft Firewall]
   
 <h2>🤳ChatGPT Projects Projects:</h2>
 
