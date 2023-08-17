@@ -30,7 +30,7 @@
   - [Wireshark]
     
 
-- </b>Microsoft Windows Defender and Firewall</b>
+- </b>Microsoft Windows Defender,Firewall, and Active Directory</b>
   - [Configuring and updating Microsoft Defender]
   - [Enabling and configuring Microsoft Firewall]
   - [Active Directory and Windows servers](https://github.com/itsims007/configure-ad)
