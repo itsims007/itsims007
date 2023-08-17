@@ -29,7 +29,6 @@
   - [Linux networking utilities tcpdump to capture and analyze TCP traffic](https://github.com/itsims007/Analyzing-Network-Traffic-with-TCPDump/tree/main)
   - [Wireshark]
     
-
 - </b>Microsoft Windows Defender,Firewall, and Active Directory</b>
   - [Configuring and updating Microsoft Defender]
   - [Enabling and configuring Microsoft Firewall]
