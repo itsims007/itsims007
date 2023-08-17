@@ -25,12 +25,17 @@
 - <b>Nessus and VMware</b>
   - [Vulnerability Management](https://github.com/itsims007/Vulnerability-Managment)
 
-- <b>Analyzing Network Traffic with TCPDump</b>
+- <b>Analyzing Network Traffic</b>
   - [Linux networking utilities tcpdump to capture and analyze TCP traffic](https://github.com/itsims007/Analyzing-Network-Traffic-with-TCPDump/tree/main)
+  - [Wireshark]
+    
 
 - </b>Microsoft Windows Defender and Firewall</b>
   - [Configuring and updating Microsoft Defender]
   - [Enabling and configuring Microsoft Firewall]
+  - [Active Directory and Windows servers](https://github.com/itsims007/configure-ad)
+
+- </b></b>
   
 <h2>🤳ChatGPT Projects Projects:</h2>
 
