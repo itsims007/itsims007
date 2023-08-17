@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marie, <a href="https://www.linkedin.com/in/marie-s-03b061239/">A Cybersecurity and AI/IT Professional</a>☺</h1>
+<h1>Hi, I'm Marie, <a href="https://www.linkedin.com/in/marie-s-03b061239/">A Cybersecurity and AI Professional</a>☺</h1>
 - 👀 I’m interested in taking over the world, just kidding. 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -13,7 +13,7 @@
   - [Configuring On-premises Active Directory within VMs](https://github.com/itsims007/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/itsims007/azure-network-protocols)
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👮🏾‍♂️ Cybersecurity Projects:</h2>
 
 - <b>Splunk</b>
   - [Infrastructure Monitoring using Splunk](https://github.com/itsims007/infastructure-monitoring-using-Splunk)
