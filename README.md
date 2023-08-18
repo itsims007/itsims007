@@ -28,10 +28,10 @@
 - <b>Analyzing Network Traffic</b>
   - [Linux networking utilities tcpdump to capture and analyze TCP traffic](https://github.com/itsims007/Analyzing-Network-Traffic-with-TCPDump/tree/main)
 
-- <b> Wireshark<b>
+- <b> Wireshark</b>
   - [Vulnerability Management Capturing packets and using filters](https://github.com/itsims007/Capturing-packets-and-using-filters)
     
-- </b>Microsoft Windows Defender,Firewall, and Active Directory</b>
+- <b>Microsoft Windows Defender,Firewall, and Active Directory</b>
   - [Configuring and updating Microsoft Defender]
   - [Enabling and configuring Microsoft Firewall]
   - [Active Directory and Windows servers](https://github.com/itsims007/configure-ad)
