@@ -28,7 +28,7 @@
 - <b>Analyzing Network Traffic</b>
   - [Linux networking utilities tcpdump to capture and analyze TCP traffic](https://github.com/itsims007/Analyzing-Network-Traffic-with-TCPDump/tree/main)
 
-- <b>[Wireshark]<b>
+- <b> Wireshark<b>
   - [Capturing packets and using filters]
     
 - </b>Microsoft Windows Defender,Firewall, and Active Directory</b>
