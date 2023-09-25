@@ -20,7 +20,7 @@
   - [Splunk Cheat Sheet](https://github.com/itsims007/Splunk-Cheat-Sheet)
 
 - <b>Microsoft Azure</b>
-  - [SIEM using Sentinel](https://github.com/itsims007/SIEM-using-Azure-Sentinel)
+  - [Building a SOC + Honeynet](https://github.com/itsims007/SIEM-using-Azure-Sentinel)
 
 - <b>Nessus and VMware</b>
   - [Vulnerability Management](https://github.com/itsims007/Vulnerability-Managment)
