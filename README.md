@@ -36,7 +36,9 @@
   - [Enabling and configuring Microsoft Firewall]
   - [Active Directory and Windows servers](https://github.com/itsims007/configure-ad)
 
-- </b></b>
+- <b>NIST 800 171</b>
+    - [Security Plan](https://github.com/itsims007/NIST-800-171/tree/main)
+
   
 <h2>🤳ChatGPT Projects Projects:</h2>
 
