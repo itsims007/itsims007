@@ -9,9 +9,7 @@
 - <b>Jira Service Management (Help Desk Ticketing System)</b>
   - [Jira: Prerequisites and Installation](https://github.com/itsims007/Jira-Prerequisites-and-Installation)
   - [Jira: Ticket Lifecycle Examples](https://github.com/itsims007/Jira-Ticket-Lifecycle-Examples)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within VMs](https://github.com/itsims007/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/itsims007/azure-network-protocols)
+
   
 <h2>👮🏾‍♂️ Cybersecurity Projects:</h2>
 
@@ -21,7 +19,8 @@
 
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet](https://github.com/itsims007/SIEM-using-Azure-Sentinel)
-
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/itsims007/azure-network-protocols)
+ 
 - <b>Nessus and VMware</b>
   - [Vulnerability Management](https://github.com/itsims007/Vulnerability-Managment)
 
