@@ -9,6 +9,8 @@
 - <b>Jira Service Management (Help Desk Ticketing System)</b>
   - [Jira: Prerequisites and Installation](https://github.com/itsims007/Jira-Prerequisites-and-Installation)
   - [Jira: Ticket Lifecycle Examples](https://github.com/itsims007/Jira-Ticket-Lifecycle-Examples)
+- <b>Microsoft Azure</b>
+  - [Building Intuition for DNS]
 
   
 <h2>👮🏾‍♂️ Cybersecurity Projects:</h2>
