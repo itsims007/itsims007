@@ -10,7 +10,7 @@
   - [Jira: Prerequisites and Installation](https://github.com/itsims007/Jira-Prerequisites-and-Installation)
   - [Jira: Ticket Lifecycle Examples](https://github.com/itsims007/Jira-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Building Intuition for DNS]
+  - [Building Intuition for DNS](https://github.com/itsims007/Building-Intuition-for-DNS/tree/main)
 
   
 <h2>👮🏾‍♂️ Cybersecurity Projects:</h2>
