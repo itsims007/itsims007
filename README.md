@@ -11,7 +11,7 @@
   - [Jira: Ticket Lifecycle Examples](https://github.com/itsims007/Jira-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Building Intuition for DNS](https://github.com/itsims007/Building-Intuition-for-DNS/tree/main)
-  - [Network File Shares and Permissions]
+  - [Network File Shares and Permissions](https://github.com/itsims007/Network-File-Shares-and-Permissions)
   
 <h2>👮🏾‍♂️ Cybersecurity Projects:</h2>
 
