@@ -20,7 +20,7 @@
   - [Splunk Cheat Sheet](https://github.com/itsims007/Splunk-Cheat-Sheet)
 
 - <b>Microsoft Azure</b>
-  - [Building a SOC + Honeynet](https://github.com/itsims007/SIEM-using-Azure-Sentinel)
+  - [Building a SOC + Honeynet](https://github.com/itsims007/AzureCloud-SOC-Honeynet)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/itsims007/azure-network-protocols)
  
 - <b>Nessus and VMware</b>
