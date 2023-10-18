@@ -1,4 +1,4 @@
-<h1>Hey, I'm Marie, <a href="https://www.linkedin.com/in/marie-s-03b061239/"> Your tech-loving homie, diving into AI and Cybersecurity like Homer into a pile of donuts! ☺️💻🔒 #CodeIsLife
+<h1>Hey, I'm Marie, <a href="https://www.linkedin.com/in/marie-s-03b061239/"> Your tech-loving homie, diving into AI and Cybersecurity like Homer Simpson into a pile of donuts! ☺️💻🔒 #CodeIsLife
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
