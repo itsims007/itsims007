@@ -1,5 +1,4 @@
 <h1>Hey, I'm Marie, <a href="https://www.linkedin.com/in/marie-s-03b061239/"> Your tech-loving homie, diving into AI and Cybersecurity like Homer Simpson into a pile of donuts! ☺️💻🔒 #CodeIsLife
-
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -13,7 +12,7 @@
   - [Building Intuition for DNS](https://github.com/itsims007/Building-Intuition-for-DNS/tree/main)
   - [Network File Shares and Permissions](https://github.com/itsims007/Network-File-Shares-and-Permissions)
   
-<h2>👮🏾‍♂️ Cybersecurity Projects:</h2>
+<h2>👮🏾‍♂️ Cybersecurity Projects:<a href="https://www.linkedin.com/in/marie-s-03b061239/">
 
 - <b>Splunk</b>
   - [Infrastructure Monitoring using Splunk](https://github.com/itsims007/infastructure-monitoring-using-Splunk)
