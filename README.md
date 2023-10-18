@@ -1,5 +1,5 @@
 <h1>Hey, I'm Marie, <a href="https://www.linkedin.com/in/marie-s-03b061239/"> Your tech-loving homie, diving into AI and Cybersecurity like Homer into a pile of donuts! ☺️💻🔒 #CodeIsLife
-- 👀 I’m interested in taking over the world, just kidding. 
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
