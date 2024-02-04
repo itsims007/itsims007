@@ -23,10 +23,12 @@
 - <b>NIST 800 171</b>
     - [Security Plan](https://github.com/itsims007/NIST-800-171/tree/main)
 
-<h2>🤳ChatGPT Projects Projects:</h2>
+
+<h2>ChatGPT Projects Projects:</h2>
 
 - <b>Prompt Engineering for ChatGPT</b>
   - [Creating first Promts with ChatGpt](https://github.com/itsims007/First-PROMTS-/tree/main)
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -41,3 +43,6 @@
 - <b>Microsoft Azure</b>
   - [Building Intuition for DNS](https://github.com/itsims007/Building-Intuition-for-DNS/tree/main)
   - [Network File Shares and Permissions](https://github.com/itsims007/Network-File-Shares-and-Permissions)
+
+ 
+<h2>👨‍💻 Software and Programming Projects:</h2>
