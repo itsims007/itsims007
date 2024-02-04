@@ -35,10 +35,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/itsims007/osticket-pre)
-  - [osTicket: Post-Installation Configuration](https://github.com/itsims007/post-install)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/itsims007/osTicket-Ticket-Lifecycle-Examples)
 - <b>Jira Service Management (Help Desk Ticketing System)</b>
   - [Jira: Prerequisites and Installation](https://github.com/itsims007/Jira-Prerequisites-and-Installation)
   - [Jira: Ticket Lifecycle Examples](https://github.com/itsims007/Jira-Ticket-Lifecycle-Examples)
