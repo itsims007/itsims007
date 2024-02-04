@@ -1,4 +1,4 @@
-<h1>Hey, I'm Marie, <a href="https://www.linkedin.com/in/marie-s-03b061239/"> Your tech-loving homie, diving into AI and Cybersecurity like Homer Simpson into a pile of donuts! ☺️💻🔒 #CodeIsLife
+<h1>Hey, I'm Marie, <a href="https://www.linkedin.com/in/marie-s-03b061239/"> Your tech-loving homie, diving into AI, Cybersecurity, and Software Development like Homer Simpson into a pile of donuts! ☺️💻🔒 #CodeIsLife
 
   
 <h2>👮🏾‍♂️ Cybersecurity Projects:</h2>
@@ -19,11 +19,6 @@
 
 - <b> Wireshark</b>
   - [Capturing packets and using filters](https://github.com/itsims007/Capturing-packets-and-using-filters)
-    
-- <b>Microsoft Windows Defender,Firewall, and Active Directory</b>
-  - [Configuring and updating Microsoft Defender]
-  - [Enabling and configuring Microsoft Firewall]
-  - [Active Directory and Windows servers](https://github.com/itsims007/configure-ad)
 
 - <b>NIST 800 171</b>
     - [Security Plan](https://github.com/itsims007/NIST-800-171/tree/main)
@@ -35,6 +30,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Windows Defender,Firewall, and Active Directory</b>
+  - [Configuring and updating Microsoft Defender]
+  - [Enabling and configuring Microsoft Firewall]
+  - [Active Directory and Windows servers](https://github.com/itsims007/configure-ad)
+  
 - <b>Jira Service Management (Help Desk Ticketing System)</b>
   - [Jira: Prerequisites and Installation](https://github.com/itsims007/Jira-Prerequisites-and-Installation)
   - [Jira: Ticket Lifecycle Examples](https://github.com/itsims007/Jira-Ticket-Lifecycle-Examples)
