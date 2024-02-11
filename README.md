@@ -50,4 +50,4 @@
 - <b>MultiCloud Architecture</b>
   - [Steps in Amazon Web Services (AWS)](https://github.com/itsims007/Creating-the-terraform-en-1-user-using-the-IAM-service/tree/main)
   - [Steps in Google Cloud Platform (GCP)](https://github.com/itsims007/Steps-in-Google-Cloud-Platform-GCP-/tree/main)
-  - [Running Terraform to provision MultiCloud infrastructure in AWS and Google Cloud]
+  - [Running Terraform to provision MultiCloud infrastructure in AWS and Google Cloud](https://github.com/itsims007/Running-Terraform-to-provision-multicloud/tree/main)
