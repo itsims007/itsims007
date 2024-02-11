@@ -53,4 +53,5 @@
   - [Running Terraform to provision MultiCloud infrastructure in AWS and Google Cloud](https://github.com/itsims007/Running-Terraform-to-provision-multicloud/tree/main)
 
 - <b>IAM service in AWS
-  - [Steps in Amazon Web Services (AWS)]
+  - [Steps in Amazon Web Services (AWS)](https://github.com/itsims007/IAM-Service-in-AWS/tree/main)
+  - [Steps in Google Cloud Platform (GCP)]
