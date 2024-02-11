@@ -49,3 +49,5 @@
   
 - <b>MultiCloud Architecture</b>
   - [Steps in Amazon Web Services (AWS)](https://github.com/itsims007/Creating-the-terraform-en-1-user-using-the-IAM-service/tree/main)
+  - [Steps in Google Cloud Platform (GCP)]
+  
