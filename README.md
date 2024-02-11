@@ -45,4 +45,7 @@
   - [Network File Shares and Permissions](https://github.com/itsims007/Network-File-Shares-and-Permissions)
 
  
-<h2>👨‍💻 Software and Programming Projects:</h2>
+<h2>👨‍💻 Cloud Computing DevOps Projects:</h2>
+  
+- <b>MultiCloud Architecture</b>
+  - [How to enable a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google ﻿Cloud Platform]
