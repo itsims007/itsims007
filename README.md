@@ -30,7 +30,7 @@
   - [Creating first Promts with ChatGpt](https://github.com/itsims007/First-PROMTS-/tree/main)
 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Security Projects:</h2>
 
 - <b>Microsoft Windows Defender,Firewall, and Active Directory</b>
   - [Configuring and updating Microsoft Defender]
