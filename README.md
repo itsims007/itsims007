@@ -54,4 +54,5 @@
 
 - <b>IAM service in AWS
   - [Steps in Amazon Web Services (AWS)](https://github.com/itsims007/IAM-Service-in-AWS/tree/main)
-  - [Steps in Google Cloud Platform (GCP)]
+  - [Steps in Google Cloud Platform (GCP)](https://github.com/itsims007/IAM-in-google-cloud)
+  - [Appendix I- Destroying the enviroment and starting over.]
