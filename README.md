@@ -56,3 +56,7 @@
   - [Steps in Amazon Web Services (AWS)](https://github.com/itsims007/IAM-Service-in-AWS/tree/main)
   - [Steps in Google Cloud Platform (GCP)](https://github.com/itsims007/IAM-in-google-cloud)
   - [Appendix I- Destroying the enviroment and starting over.](https://github.com/itsims007/Appendix-I---Destroying-the-environment-and-starting-over)
+ 
+- <b>Migration of "on-premises" application & database to a MultiCloud Architecture
+  - [Steps in Google Cloud Platform (Database Migration)](https://github.com/itsims007/Google-Cloud-Platform-Database-Migration-)
+  - [Steps in Amazon Web Services (PDF Files Migration)](https://github.com/itsims007/Amazon-Web-Services-PDF-Files-Migration-)
